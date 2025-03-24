@@ -10,7 +10,7 @@
 
 ### [Project Page](https://digital-cousins.github.io/) | [Paper](https://arxiv.org/pdf/2410.07408)
 
-This repository contains the codebase used in [**Automated Creation of _Digital Cousins_ for Robust Policy Learning**](https://digital-cousins.github.io/).
+This repository contains a the codebase used in [**Automated Creation of _Digital Cousins_ for Robust Policy Learning**](https://digital-cousins.github.io/).
 
 More generally, this codebase is designed to generate fully interactive scenes from a single RGB image in a completely automated fashion.
 
